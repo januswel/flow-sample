@@ -12,3 +12,6 @@ overload()
 
 import { genericClass } from './generic-class'
 genericClass()
+
+import { destructuring } from './destructuring'
+destructuring()
